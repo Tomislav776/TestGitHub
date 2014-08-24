@@ -1,4 +1,4 @@
 TestGitHub
 ==========
 
-Gut Hub Tutorial
+Neki tekst pre cool sam.
